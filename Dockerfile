@@ -1,6 +1,6 @@
 #
 
-# Ubuntu Dockerfile
+# chips Dockerfile
 
 #
 
@@ -10,9 +10,7 @@
 
 
 
-# Pull base image.
 
-FROM ubuntu:14.04
 
 
 
